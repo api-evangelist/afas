@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-AFAS Software is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://afas.nl/
+AFAS Software provides enterprise software solutions for HR, payroll, finance, and ERP, serving over 14,000 organizations in the Netherlands and beyond. Their platform integrates various business processes into a single system, enabling companies to streamline operations, improve employee satisfaction, and focus on core activities. AFAS emphasizes a unified approach to managing HR, finance, CRM, and project management, delivering cloud‑based and on‑premise options tailored to diverse business needs.
+
+**Areas:** Company · HR · Payroll · ERP · Software · Netherlands
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://afas.nl/)
+- [Documentation](https://help.afas.nl/)
+- [Blog](https://www.afas.nl/blog)
+- [Security](https://www.afas.nl/portal-bedrijfspagina/responsible-disclosure)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/afas/](https://apis.io/providers/afas/).
